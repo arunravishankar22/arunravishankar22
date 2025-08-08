@@ -1,49 +1,52 @@
-Hi, I’m Ravi Shankar
-🎮 Unity Game Developer | C# Programmer | Creative Problem Solver
+<h1 align="center">Hi there 👋, I'm Ravi Shankar</h1>
+<h3 align="center">Unity Game Developer | C# Programmer | Game Design Enthusiast</h3>
 
-I’m a passionate game developer with over 5 years of experience building mobile and PC games in Unity. 
-I enjoy turning creative ideas into interactive, polished, and optimized experiences that players love. 
-From designing gameplay mechanics to optimizing performance, I focus on delivering high-quality games 
-that blend fun and functionality.
--------------------------------------------------------------------------------------------------------
-🛠️ Skills & Tools
+---
 
-Game Engines: Unity (2D & 3D)
+## 🚀 About Me
 
-Programming Languages: C#
+I’m a passionate **Unity Game Developer** with over 3 years of experience creating engaging and optimized mobile and PC games.  
+I specialize in **C#, Unity, and game design**, and I love turning ideas into playable experiences.  
 
-Specialties: Gameplay Programming, Game Optimization, UI Development, Mobile Game Development
+I’ve worked on multiple projects from prototypes to full commercial releases focusing on **performance, fun, and player engagement**.  
+When I’m not coding, you’ll probably find me exploring new game mechanics, tweaking shaders, or learning the latest industry tools.
 
-Tools & Software: Unity UI Toolkit, Git, Visual Studio, Blender (basic), Photoshop (basic)
+---
 
-Platforms: Android, iOS, PC
+## 🛠️ Skills & Tech Stack
 
--------------------------------------------------------------------------------------------------------
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![In-App Purchases](https://img.shields.io/badge/In--App%20Purchases-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-🚀 What I’m Working On
+## 📈 GitHub Stats
 
-Creating fun, engaging Unity games for mobile and PC
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
 
-Exploring game optimization techniques for better performance
+---
 
-Expanding my skills in multiplayer and procedural generation systems
+## 🎮 My Game Development Journey
 
--------------------------------------------------------------------------------------------------------
+- 🎯 **Started game dev** with small projects and game jams  
+- 🛠 **Leveled up** in Unity & C# through self-learning and building complete games  
+- 📱 Released games on **Google Play** and worked on prototypes for commercial projects  
+- 🚀 Always exploring **new tools, techniques, and gameplay experiences**  
 
-📌 Featured Projects
+---
 
-🐉 Fantasy RPG (Mobile) – Combat system, inventory, and quests in Unity
+## 📫 How to reach me
+- Email: arunravishankar2000@gmail.com
+- Portfolio: https://arunravishankar22.wixsite.com/arunravishankar 
+- LinkedIn: https://www.linkedin.com/in/ravi-shankar-asokan-67100217b/
 
-🏎 Endless Runner – Mobile-friendly optimized gameplay with smooth controls
+---
 
-🧩 Puzzle Game – Clean UI, interactive animations, and level design
-
--------------------------------------------------------------------------------------------------------
-
-📫 Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/ravi-shankar-asokan-67100217b/
-
-Email: arunravishankar2000@gmail.com
-
-"Code is the paintbrush, and the game is the art."
+⭐ **Fun Fact:** I believe every great game starts with a single line of code... and a lot of coffee ☕
