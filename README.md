@@ -28,8 +28,8 @@ When I’m not coding, you’ll probably find me exploring new game mechanics, t
 
 ## 📈 GitHub Stats
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunravishankar22&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunravishankar22&layout=compact&theme=dark)
 
 ---
 
