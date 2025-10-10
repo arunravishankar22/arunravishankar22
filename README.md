@@ -44,7 +44,7 @@ When I’m not coding, you’ll probably find me exploring new game mechanics, t
 
 ## 📫 How to reach me
 - Email: arunravishankar2000@gmail.com
-- Portfolio: https://arunravishankar22.wixsite.com/arunravishankar 
+- Portfolio: https://arunravishankar200.wixstudio.com/ravi-portfolio
 - LinkedIn: https://www.linkedin.com/in/ravi-shankar-asokan-67100217b/
 
 ---
